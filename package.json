@@ -10,7 +10,7 @@
     "email-validator": "^2.0.4",
     "firebase": "^6.6.1",
     "react": "16.11.0",
-    "react-native": "^0.58.6",
+    "react-native": "^0.61.2",
     "react-native-elements": "^1.1.0",
     "react-native-fbsdk": "^1.0.4",
     "react-native-gesture-handler": "^1.0.12",
